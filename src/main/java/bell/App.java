@@ -1,4 +1,4 @@
-package Bell;
+package bell;
 
 /**
  * Hello world!
