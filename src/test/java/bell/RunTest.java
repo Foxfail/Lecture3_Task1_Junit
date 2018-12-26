@@ -1,4 +1,4 @@
-package Bell;
+package bell;
 
 import org.junit.After;
 import org.junit.Before;
@@ -30,6 +30,7 @@ public class RunTest {
         assertEquals(s1, s2);
     }
     // тесты не по заданию
+    @SuppressWarnings("ConstantConditions")
     @Test
     public void falseTest2(){
         System.out.println("falseTest2");
